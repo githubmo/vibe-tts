@@ -2,6 +2,8 @@
 
 A desktop Text-to-Speech application powered by Kokoro 82M, providing high-quality voice synthesis through an intuitive PyQt6 interface.
 
+![alt text](app.png)
+
 ## Features
 
 - **User-Friendly GUI**: Clean PyQt6 interface for easy text-to-speech conversion
